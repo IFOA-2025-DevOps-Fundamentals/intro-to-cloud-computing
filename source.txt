@@ -1,0 +1,11 @@
+From MarcoM: 
+- Cloud.pptx
+- IaaS - Comm. Protocols.pptx
+- GCP.pptx
+- Firestore.pptx
+- Functions.pptx
+
+From Colajanni: 
+- internet-base-services-and-cloud.pdf
+- cloudification
+- microservices.pdf
