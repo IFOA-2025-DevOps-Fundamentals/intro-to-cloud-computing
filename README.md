@@ -62,7 +62,6 @@ When the internet was born, it was impossible for system designer to build a rel
 </div>
 <figcaption style="text-align:center;"><em>Typical daily workload of a random service</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/requests-month.png" style="width: 40vw; height: auto;"/>
@@ -70,28 +69,24 @@ When the internet was born, it was impossible for system designer to build a rel
 </div>
 <figcaption style="text-align:center;"><em>Possible daily workload in a defined time-zone</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/ecommerce-seasonality.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Potential e-commerce seasonality</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/sport-periodic-peaks.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Periodic peaks associated to sports events (e.g., Australia Open)</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/salesforce-growth.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Salesforce transactions in a quarter, from 200k to 13 billion</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/alibaba-active-customers.png" style="width: 40vw; height: auto;"/>
@@ -99,28 +94,24 @@ When the internet was born, it was impossible for system designer to build a rel
 </div>
 <figcaption style="text-align:center;"><em>Number of visitors of Alibaba.com</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/cnn-daily pageviews.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>CNN hits from 2 to 1 billion a day</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/ebay-visitors-us.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Unique visitors to Ebay</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="assets/images/elastic-sizing.png" style="width: 70vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Elastic Sizing: the Cloud innovation</em></figcaption>
 
-<br>
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/iaas-paas-saas-diagram5.1-1638x1046.png.webp?itok=jndE25Ok" style="width: 100vw; height: auto;"/>
