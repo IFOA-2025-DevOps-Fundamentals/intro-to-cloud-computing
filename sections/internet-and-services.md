@@ -22,7 +22,7 @@ When the internet was born, it was impossible for system designer to build a rel
     <img src="../assets/images/requests-month.png" width="300"/>
     <img src="../assets/images/requests-worldmap.png" width="300"/>
 </div>
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
     <figcaption>
         <em>Possible daily workload in a defined time-zone</em>
     </figcaption>
