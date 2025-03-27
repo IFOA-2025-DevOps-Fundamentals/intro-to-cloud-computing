@@ -7,8 +7,8 @@ When the internet was born, it was impossible for system designer to build a rel
 - the service could be suject to ***hotspots***, ***burst arrivals***, ... 
 - enormous ***increase*** or ***decrease of requests*** can happen in a time period, from seasons, to months, to day, to hours ... 
 
-<picture style="display: flex; justify-content: center; gap: 0.5vw;">
-    <img src="../assets/images/weekly-workload.png" style="width: 0.5vw; height: auto;"/>
+<picture style="display: flex; justify-content: center; gap: 3vw;">
+    <img src="../assets/images/weekly-workload.png" style="width: 60vw; height: auto;"/>
 </picture>
 <figcaption style="text-align:center;"><em>Typical daily workload of a random service</em></figcaption>
 
