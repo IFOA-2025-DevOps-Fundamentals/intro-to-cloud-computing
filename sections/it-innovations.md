@@ -2,10 +2,19 @@
 
 So: what will come ***after the Cloud?*** 
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/innovation-cycles.png" style="width: 50vw; height: auto;"/>
+
+<div align="center">
+    <img src="../assets/images/innovation-cycles.png" width="500"/>
 </div>
-<figcaption style="text-align:center;"><em>IT innovation cycles</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>IT innovation cycles</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
+
 
 Let's take a look to nowadays Cloud problems.
 

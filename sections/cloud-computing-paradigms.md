@@ -10,10 +10,17 @@ The answer is: everything ... ***everything as a service*** (**EaaS** or **XaaS*
 
 ### Service Model
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/iaas-paas-saas-diagram5.1-1638x1046.png.webp?itok=jndE25Ok" style="width: 100vw; height: auto;"/>
+<div align="center">
+    <img src="https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/iaas-paas-saas-diagram5.1-1638x1046.png.webp?itok=jndE25Ok" width="700"/>
 </div>
-<figcaption style="text-align:center;"><em>Prevalent Cloud Service pardigms from RedHat</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Prevalent Cloud Service pardigms from RedHat</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
 
 A portion of the service stack is bought by a service provider (e.g., GCP, AWS, RedHat ...), and on top of that the business owner builds its service to deliver.
 
@@ -29,25 +36,46 @@ On the opposite ... you are just buiyng a service and using it on someone elses 
 
 - **Private cloud**: the infrastructure is operated solely for an organization. It may be managed by the organization itself (*private*) or by a third party (*exclusive cloud*), and may be on-premise or off-premise;
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/private-cloud-model.png" style="width: 65vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/private-cloud-model.png" width="600"/>
 </div>
-<figcaption style="text-align:center;"><em>Private cloud model by GeekforGeeks</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Private cloud model by GeekforGeeks</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
 
 - **Community cloud**: the infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., business mission, security requirements, policy, and compliance considerations). It may be managed by the organizations or by a third party and may exist on-premise or off-premise;
 - **Public cloud**: the infrastructure is made available to the general public or a large industry group and is owned by an organization (i.e., cloud provider) selling one or more types cloud services;
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/public-cloud-model.png" style="width: 65vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/public-cloud-model.png" width="600"/>
 </div>
-<figcaption style="text-align:center;"><em>Public cloud model by GeekforGeeks</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Public cloud model by GeekforGeeks</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
 
 - **Hybrid cloud**: the infrastructure is a composition of two or more deployment models (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology (i.e., *integration system*) that enables data and application portability.
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/hybrid-cloud-model.png" style="width: 65vw; height: auto;"/>
+
+<div align="center">
+    <img src="../assets/images/hybrid-cloud-model.png" width="600"/>
 </div>
-<figcaption style="text-align:center;"><em>Hybrid cloud model by GeekforGeeks</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Hybrid cloud model by GeekforGeeks</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
 
 ### The Business and Technological points of views of the cloud: two sides of the same coin
 

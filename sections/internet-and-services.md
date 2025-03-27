@@ -127,6 +127,8 @@ Here comes the BIG impact of cloud computing: ***elastic sizing***.
 <div align="center">
     <figcaption>
         <em>Elastic Sizing: the Cloud innovation</em>
+        <br>
+        <br>
     </figcaption>
 </div>
 
