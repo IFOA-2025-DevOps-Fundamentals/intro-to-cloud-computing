@@ -8,11 +8,13 @@ When the internet was born, it was impossible for system designer to build a rel
 - enormous ***increase*** or ***decrease of requests*** can happen in a time period, from seasons, to months, to day, to hours ... 
 
 <div align="center">
-    <img src="../assets/images/weekly-workload.png" width="600"/>
+    <img src="../assets/images/weekly-workload.png" width="550"/>
 </div>
 <div align="center">
     <figcaption>
         <em>Typical daily workload of a random service</em>
+        <br>
+        <br>
     </figcaption>
 </div>
 
@@ -22,48 +24,87 @@ When the internet was born, it was impossible for system designer to build a rel
     <img src="../assets/images/requests-month.png" width="300"/>
     <img src="../assets/images/requests-worldmap.png" width="300"/>
 </div>
-<div align="center" style="margin-bottom: 50px;">
+<div align="center">
     <figcaption>
         <em>Possible daily workload in a defined time-zone</em>
+        <br>
+        <br>
     </figcaption>
 </div>
 
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/ecommerce-seasonality.png" style="width: 70vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/ecommerce-seasonality.png" width="550"/>
 </div>
-<figcaption align="center"><em>Potential e-commerce seasonality</em></figcaption>
-
-
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/sport-periodic-peaks.png" style="width: 70vw; height: auto;"/>
+<div align="center">
+    <figcaption>
+        <em>Potential e-commerce seasonality</em>
+        <br>
+        <br>
+    </figcaption>
 </div>
-<figcaption style="text-align:center;"><em>Periodic peaks associated to sports events (e.g., Australia Open)</em></figcaption>
 
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/salesforce-growth.png" style="width: 70vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/sport-periodic-peaks.png" width="550"/>
 </div>
-<figcaption style="text-align:center;"><em>Salesforce transactions in a quarter, from 200k to 13 billion</em></figcaption>
-
-
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/alibaba-active-customers.png" style="width: 40vw; height: auto;"/>
-    <img src="../assets/images/alibaba-traffic-estimation.png" style="width: 35vw; height: auto;"/>
+<div align="center">
+    <figcaption>
+        <em>Periodic peaks associated to sports events (e.g., Australia Open)</em>
+        <br>
+        <br>
+    </figcaption>
 </div>
-<figcaption style="text-align:center;"><em>Number of visitors of Alibaba.com</em></figcaption>
 
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/cnn-daily pageviews.png" style="width: 70vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/salesforce-growth.png" width="550"/>
 </div>
-<figcaption style="text-align:center;"><em>CNN hits from 2 to 1 billion a day</em></figcaption>
-
-
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/ebay-visitors-us.png" style="width: 70vw; height: auto;"/>
+<div align="center">
+    <figcaption>
+        <em>Salesforce transactions in a quarter, from 200k to 13 billion</em>
+        <br>
+        <br>
+    </figcaption>
 </div>
-<figcaption style="text-align:center;"><em>Unique visitors to Ebay</em></figcaption>
+
+
+<div align="center">
+    <img src="../assets/images/alibaba-active-customers.png" width="300"/>
+    <img src="../assets/images/alibaba-traffic-estimation.png" width="300"/>
+</div>
+<div align="center">
+    <figcaption>
+        <em>Number of visitors of Alibaba.com</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
+
+<div align="center">
+    <img src="../assets/images/cnn-daily pageviews.png" width="550"/>
+</div>
+<div align="center">
+    <figcaption>
+        <em>CNN hits from 2 to 1 billion a day</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
+
+<div align="center">
+    <img src="../assets/images/ebay-visitors-us.png" width="550"/>
+</div>
+<div align="center">
+    <figcaption>
+        <em>Unique visitors to Ebay</em>
+        <br>
+        <br>
+    </figcaption>
+</div>
+
 
 Under an economical perspective, such limitations have a huge impact on businesses: 
 - If your site does not work, or takes too long to load, cutstomers may not return for a long time - or forever; 
