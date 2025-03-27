@@ -120,10 +120,16 @@ Business environments make ***zero tolerance*** for any unresolved complaint, an
 
 Here comes the BIG impact of cloud computing: ***elastic sizing***.
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/elastic-sizing.png" style="width: 70vw; height: auto;"/>
+
+<div align="center">
+    <img src="../assets/images/elastic-sizing.png" width= "500"/>
 </div>
-<figcaption style="text-align:center;"><em>Elastic Sizing: the Cloud innovation</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Elastic Sizing: the Cloud innovation</em>
+    </figcaption>
+</div>
+
 
 Some of cloud services key-features:
 - **Scalability:** Resources can be increased or decreased based on demand.
