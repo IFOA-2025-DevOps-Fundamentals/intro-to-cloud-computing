@@ -17,13 +17,13 @@ When the internet was born, it was impossible for system designer to build a rel
     <img src="../assets/images/requests-month.png" width="300"/>
     <img src="../assets/images/requests-worldmap.png" width="300"/>
 </div>
-<figcaption style="text-align:center;"><em>Possible daily workload in a defined time-zone</em></figcaption>
+<figcaption align="center"><em>Possible daily workload in a defined time-zone</em></figcaption>
 
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
     <img src="../assets/images/ecommerce-seasonality.png" style="width: 70vw; height: auto;"/>
 </div>
-<figcaption style="text-align:center;"><em>Potential e-commerce seasonality</em></figcaption>
+<figcaption align="center"><em>Potential e-commerce seasonality</em></figcaption>
 
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
