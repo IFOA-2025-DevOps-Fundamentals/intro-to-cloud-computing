@@ -10,17 +10,12 @@ When the internet was born, it was impossible for system designer to build a rel
 <div align="center">
     <img src="../assets/images/weekly-workload.png" width="600"/>
 </div>
-
-
-<picture style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/weekly-workload.png" style="width: 60vw; height: auto;"/>
-</picture>
 <figcaption style="text-align:center;"><em>Typical daily workload of a random service</em></figcaption>
 
 
-<div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/requests-month.png" style="width: 40vw; height: auto;"/>
-    <img src="../assets/images/requests-worldmap.png" style="width: 30vw; height: auto;"/>
+<div align="center">
+    <img src="../assets/images/requests-month.png" width="300"/>
+    <img src="../assets/images/requests-worldmap.png" width="300"/>
 </div>
 <figcaption style="text-align:center;"><em>Possible daily workload in a defined time-zone</em></figcaption>
 
