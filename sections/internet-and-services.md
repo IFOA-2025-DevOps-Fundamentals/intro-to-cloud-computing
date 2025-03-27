@@ -8,7 +8,7 @@ When the internet was born, it was impossible for system designer to build a rel
 - enormous ***increase*** or ***decrease of requests*** can happen in a time period, from seasons, to months, to day, to hours ... 
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
-    <img src="../assets/images/weekly-workload.png" style="width: 70vw; height: auto;"/>
+    <img src="../assets/images/weekly-workload.png" style="width: 0.5vw; height: auto;"/>
 </div>
 <figcaption style="text-align:center;"><em>Typical daily workload of a random service</em></figcaption>
 
