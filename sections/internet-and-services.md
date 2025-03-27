@@ -17,7 +17,11 @@ When the internet was born, it was impossible for system designer to build a rel
     <img src="../assets/images/requests-month.png" width="300"/>
     <img src="../assets/images/requests-worldmap.png" width="300"/>
 </div>
-<figcaption align="center"><em>Possible daily workload in a defined time-zone</em></figcaption>
+<div align="center">
+    <figcaption>
+        <em>Possible daily workload in a defined time-zone</em>
+    </figcaption>
+</div>
 
 
 <div style="display: flex; justify-content: center; gap: 3vw;">
