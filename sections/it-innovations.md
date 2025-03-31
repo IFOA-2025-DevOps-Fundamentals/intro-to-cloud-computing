@@ -1,4 +1,4 @@
-[comment]: <> (Add here the section about microservices)
+<!-- TODO: Add here the section about microservices -->
 
 # IT Innovations and the next Innovation Cycle
 
@@ -15,7 +15,6 @@ So: what will come ***after the Cloud?***
         <br>
     </figcaption>
 </div>
-
 
 
 Let's take a look to nowadays Cloud problems.
