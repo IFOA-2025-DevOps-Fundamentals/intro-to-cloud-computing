@@ -2,13 +2,14 @@
  A gentle introduction to Cloud Computing e concepts behind it.
 
  ## Course Goals
- ...
+ ... <!-- TODO: complete -->
+ 
 
  ## Table Of Contents
  - [What is Cloud Computing?](sections/what-is-cloud-computing.md#what-is-cloud-computing)
  - [Internet and Services: new Technologies means new Challenges](sections/internet-and-services.md#internet-and-services-new-technology-means-new-challenges)
  - [Cloud Computing Paradigms](sections/cloud-computing-paradigms.md#cloud-computing-paradigms)
- - [IT Innovations and the next Innovation Cycle](sections/it-innovations.md#it-innovations-and-the-next-innovation-cycle)
+ - [IT Innovations: Cloud-Enabled Approaches and the next Innovation Cycle](sections/it-innovations.md#it-innovations-cloud-enabled-approaches-and-the-next-innovation-cycle)
 
 ---
 
