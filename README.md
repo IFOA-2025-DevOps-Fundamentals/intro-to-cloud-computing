@@ -1,9 +1,5 @@
 # Intro To Cloud Computing
- A gentle introduction to Cloud Computing e concepts behind it.
-
- ## Course Goals
- ... <!-- TODO: complete -->
- 
+ A gentle introduction to Cloud Computing and concepts behind it.
 
  ## Table Of Contents
  - [What is Cloud Computing?](sections/what-is-cloud-computing.md#what-is-cloud-computing)

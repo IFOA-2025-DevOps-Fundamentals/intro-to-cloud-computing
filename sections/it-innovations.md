@@ -11,11 +11,11 @@ Through time, 4 main ways to implement a has been adopted:
 4. Serverless
 
 The big picture reporting differences among these approaches is reported below. 
-![alt text](image-1.png) <!-- TODO: Change, personalize, add caption -->
+![alt text](../assets/images/image-1.png) <!-- TODO: Change, personalize, add caption -->
 
 The evolution is mainly based on the idea of implementing applications based on distributed systems, to allow interoperability between functions and even among several monolithic applications, and the idea was there way before the advent of SOA.
 
-![alt text](image.png)
+![alt text](../assets/images/image.png)
 <!-- TODO: Monolithic, siloed, architecture. Change, personalize, add caption -->
 
 Then, SOA came up in 2000, bringing an new approach to building principles of IT services. 
@@ -31,7 +31,7 @@ But ... *What is a Service-Oriented Architecture?*
 
 Its conceptual principles are collected in ***[the Service-Oriented Manifesto](https://soa-manifesto.org/default.html)***.
 
-![alt text](image-2.png)
+![alt text](../assets/images/image-2.png)
 <!-- TODO: SOA. Change, personalize, add caption -->
 
 It was (and actually is) applied to three main scenarios: 
@@ -43,12 +43,12 @@ Within intra-company, it supports:
 * The creation of new services based on old services, reused as an embedded version
 * The creation of a new service levereaging existing ones, and their discovery through a service registry
 
-![alt text](image-3.png)
+![alt text](../assets/images/image-3.png)
 <!-- TODO: Change, personalize, add caption -->
 
 ### Example: Expedia
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](../assets/images/image-4.png)
+![alt text](../assets/images/image-5.png)
 <!-- TODO: Change, personalize, add caption -->
 
 ### SOA and the Enterprise Service Bus
@@ -76,7 +76,7 @@ A valid Cloud-based service is required to be:
 * loosly-coupled
 * stateless as possible.
 
-![alt text](image-7.png)
+![alt text](../assets/images/image-7.png)
 <!-- TODO: Change, personalize, add caption -->
 
 But ... What are Microservices? 
@@ -188,7 +188,7 @@ This approach improves scalability and decoupling, making it ideal for distribut
 
 In particular, through EDA is possible to model ***domain-events***, that are actual events domain experts care about. Domain events can be also used to for communication between microservices, enabling ***event-driven microservices***.
 
-![alt text](image-8.png)
+![alt text](../assets/images/image-8.png)
 <!-- TODO: Change, personalize, add caption -->
 
 EDA are key for ***elasticity*** and ***scalability*** of the cloud.
