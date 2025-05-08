@@ -158,7 +158,7 @@ The scalability problem moved the focus of IT business from being a technology p
 - ***scalable***;
 - ***usable***.
 
-### How much does a service provider lose from an outage? 
+## How much does a service provider lose from an outage? 
 - Ebay: from 2000$ to 4000$ ... *per second*; 
 - Amazon: about 100.000$ per minute; 
 - Facebook: 130.000$ per minute. 

@@ -46,12 +46,12 @@ Within intra-company, it supports:
 ![alt text](../assets/images/image-3.png)
 <!-- TODO: Change, personalize, add caption -->
 
-### Example: Expedia
+### A Practical Example
 ![alt text](../assets/images/image-4.png)
 ![alt text](../assets/images/image-5.png)
 <!-- TODO: Change, personalize, add caption -->
 
-### SOA and the Enterprise Service Bus
+## SOA and the Enterprise Service Bus
 
 The cornerstone of the SOA is the Enterprise Service Bus, or ESB.
 The ESB is the element that *connects* all the involved applications, decoupling them and promoting the architecture modularity.
@@ -116,7 +116,7 @@ It can be split down in the following *microservices*:
 <!-- TODO: Evaluate if to change with C-GPT generated content -->
 
 
-## SOA vs. Microservices: differences? 
+## SOA vs. Microservices: Differences? 
 Both SOA and microservices allow a complex application to be broken down into smaller more manageable, and somewhat independent pieces.
  
 Given the fact that dividing an application into smaller parts could be handled by either SOA or microservices, there are those who insist that there is not a real difference between the two architectures.
@@ -138,7 +138,7 @@ In fact, there are some crucial differences between the two architectures, and t
 
 6. Typically, there is a logical separation between microservices: individual microservices often run in (cloud based) containers
 
-## Microservices and enabled technologies
+## Microservices and Enabled Technologies
 
 Having several microservices designed and deployed independently allowed for several technological improvements: 
 - continuous implementation and deployment (DevOps) of large, complex applications:
@@ -174,7 +174,7 @@ Most large web-based services such as Amazon, Ebay, Netflix, moved from a SOA to
 > - **Twitter**: Monolithic Ruby > SOA Java / Scala > microservices
 > - **Amazon**: Monolithic Perl / C++ > SOA Java / Scala > microservices
 
-### Communication in Microservices
+## Communication between Microservices
 
 There is not just one solution for building cloud applications based on microservices but some architectural approaches have proven success for elasticity and availability:
 - RESTful services

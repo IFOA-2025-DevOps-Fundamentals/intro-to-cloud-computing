@@ -8,7 +8,7 @@ The answer is: everything ... ***everything as a service*** (**EaaS** or **XaaS*
 - Service Model; 
 - Deployment Model.
 
-### Service Model
+## Service Model
 
 <div align="center">
     <img src="https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/iaas-paas-saas-diagram5.1-1638x1046.png.webp?itok=jndE25Ok" width="700"/>
@@ -32,7 +32,7 @@ On the opposite ... you are just buiyng a service and using it on someone elses 
 >
 > Can you name a SaaS Service? 
 
-### Deployment Model 
+## Deployment Model 
 
 - **Private cloud**: the infrastructure is operated solely for an organization. It may be managed by the organization itself (*private*) or by a third party (*exclusive cloud*), and may be on-premise or off-premise;
 
@@ -77,7 +77,7 @@ On the opposite ... you are just buiyng a service and using it on someone elses 
 </div>
 
 
-### The Business and Technological points of views of the cloud: two sides of the same coin
+## The Business and Technological Points of View of the Cloud: Two Sides of the same Coin
 
 User's point of view: 
 - Logically isolated set of resources (disk, memory, processor, network); 
@@ -97,7 +97,7 @@ Enginnering's point of view:
 - Power and cooling systems
 - Security measures (access limitation systems to building, cameras, ...)
 
-### But ... Is your application scalable? 
+## But ... Is your Application Scalable? 
 
 Elasticity and availability attributes are what makes the cloud appealing. Nevertheless, the cloud alone can not make your application scalable as well, by just porting it.
 
