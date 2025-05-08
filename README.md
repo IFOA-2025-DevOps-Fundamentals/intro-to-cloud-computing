@@ -17,10 +17,8 @@
  
  - [IT Innovations: Cloud-Enabled Approaches and the next Innovation Cycle](sections/04_it-innovations.md#it-innovations-cloud-enabled-approaches-and-the-next-innovation-cycle)
     - [Cloud, Service-Oriented Architectures and Microservices](sections/04_it-innovations.md#cloud-service-oriented-architectures-and-microservices)
-        - [A Practical Example](sections/04_it-innovations.md#a-practical-example)
     - [SOA and the Enterprise Service Bus](sections/04_it-innovations.md#soa-and-the-enterprise-service-bus)
     - [From SOA to Microservices](sections/04_it-innovations.md#from-soa-to-microservices)
-        - [How to define a Microservice](sections/04_it-innovations.md#how-to-define-a-microservice)
     - [SOA vs. Microservices: Differences?](sections/04_it-innovations.md#soa-vs-microservices-differences)
     - [Microservices and Enabled Technologies](sections/04_it-innovations.md#soa-vs-microservices-differences)
     - [Communication between Microservices](sections/04_it-innovations.md#communication-between-microservices)
